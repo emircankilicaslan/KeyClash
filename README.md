@@ -14,13 +14,4 @@ The primary goal of KeyClash is to provide a user-friendly platform that makes t
 | **Database**  | MongoDB (NoSQL)| Stores users, matches, scores, and rankings                            |
 | **Cache / Session** | Redis    | Used for real-time matchmaking and session handling                    |
 
-## 📦 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/your-username/keyclash.git
-cd keyclash
-npm install
-npm run dev
 
